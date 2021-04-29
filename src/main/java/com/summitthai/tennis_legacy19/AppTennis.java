@@ -8,7 +8,7 @@ public class AppTennis {
 		int point = 0;
 		String name1 = "joe";
 		String name2 = "jame";
-		String[] gameScoreChoice = { "Love", "15", "30", "40" };
+//		String[] gameScoreChoice = { "Love", "15", "30", "40" };
 
 		System.out.println(" Enter first player name1 ");
 
